@@ -1,2 +1,2 @@
-iiiiuysgujxjhxdjksxlp
-find . iiiiiiiiiiiiiih . -print | wc -|
+#!/bin/bash
+find ./* -type d -print | wc -l
